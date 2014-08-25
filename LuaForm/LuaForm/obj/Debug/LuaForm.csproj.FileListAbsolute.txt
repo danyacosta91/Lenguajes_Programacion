@@ -1,0 +1,12 @@
+C:\Users\Dany\Documents\GIT\Lenguajes_Programacion\LuaForm\LuaForm\bin\Debug\LuaForm.exe.config
+C:\Users\Dany\Documents\GIT\Lenguajes_Programacion\LuaForm\LuaForm\bin\Debug\LuaForm.exe
+C:\Users\Dany\Documents\GIT\Lenguajes_Programacion\LuaForm\LuaForm\bin\Debug\LuaForm.pdb
+C:\Users\Dany\Documents\GIT\Lenguajes_Programacion\LuaForm\LuaForm\obj\Debug\LuaForm.csprojResolveAssemblyReference.cache
+C:\Users\Dany\Documents\GIT\Lenguajes_Programacion\LuaForm\LuaForm\obj\Debug\LuaForm.Form1.resources
+C:\Users\Dany\Documents\GIT\Lenguajes_Programacion\LuaForm\LuaForm\obj\Debug\LuaForm.Properties.Resources.resources
+C:\Users\Dany\Documents\GIT\Lenguajes_Programacion\LuaForm\LuaForm\obj\Debug\LuaForm.csproj.GenerateResource.Cache
+C:\Users\Dany\Documents\GIT\Lenguajes_Programacion\LuaForm\LuaForm\obj\Debug\LuaForm.exe
+C:\Users\Dany\Documents\GIT\Lenguajes_Programacion\LuaForm\LuaForm\obj\Debug\LuaForm.pdb
+C:\Users\Dany\Documents\GIT\Lenguajes_Programacion\LuaForm\LuaForm\bin\Debug\LuaInterface.dll
+C:\Users\Dany\Documents\GIT\Lenguajes_Programacion\LuaForm\LuaForm\bin\Debug\lua51.dll
+C:\Users\Dany\Documents\GIT\Lenguajes_Programacion\LuaForm\LuaForm\bin\Debug\lua513net.dll
