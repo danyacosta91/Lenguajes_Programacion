@@ -1,0 +1,7 @@
+C:\Users\Dany\Documents\GIT\Lenguajes_Programacion\LuaScript\LuaScript\bin\Debug\LuaScript.exe.config
+C:\Users\Dany\Documents\GIT\Lenguajes_Programacion\LuaScript\LuaScript\bin\Debug\LuaScript.exe
+C:\Users\Dany\Documents\GIT\Lenguajes_Programacion\LuaScript\LuaScript\bin\Debug\LuaScript.pdb
+C:\Users\Dany\Documents\GIT\Lenguajes_Programacion\LuaScript\LuaScript\bin\Debug\LuaInterface.dll
+C:\Users\Dany\Documents\GIT\Lenguajes_Programacion\LuaScript\LuaScript\obj\Debug\LuaScript.csprojResolveAssemblyReference.cache
+C:\Users\Dany\Documents\GIT\Lenguajes_Programacion\LuaScript\LuaScript\obj\Debug\LuaScript.exe
+C:\Users\Dany\Documents\GIT\Lenguajes_Programacion\LuaScript\LuaScript\obj\Debug\LuaScript.pdb
