@@ -8,16 +8,18 @@ class Alumno
 {
 private:
 	string _nombre;
+	string _correo;
 	double _nota;
 public:
-	Alumno(string nombre, double nota){
+	Alumno(string nombre, string correo, double nota){
 		_nombre = nombre;
 		_nota = nota;
+		_correo = correo;
 	};
 	string toString(){
 		stringstream ss;
 		ss << _nota;
-		return "Alumno: " + _nombre + " con nota: " + ss.str();
+		return "Alumno: " + _nombre + " con nota: " + ss.str() + " con correo: " + _correo;
 	};
 
 	~Alumno();
