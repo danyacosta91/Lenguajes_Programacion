@@ -84,7 +84,7 @@ namespace Achivit
         }
         #endregion
 
-        public string toString()
+        public string ToString()
         {
             return "Nombre: " + Nombre + " con cuenta: " + Cuenta + " y correo: " + Email + " tiene: " + Edad + " años.";
         }
