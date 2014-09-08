@@ -1,0 +1,9 @@
+C:\Users\Dany\Documents\GIT\Lenguajes_Programacion\regex\regex\regex\bin\Debug\regex.exe.config
+C:\Users\Dany\Documents\GIT\Lenguajes_Programacion\regex\regex\regex\bin\Debug\regex.exe
+C:\Users\Dany\Documents\GIT\Lenguajes_Programacion\regex\regex\regex\bin\Debug\regex.pdb
+C:\Users\Dany\Documents\GIT\Lenguajes_Programacion\regex\regex\regex\obj\Debug\regex.csprojResolveAssemblyReference.cache
+C:\Users\Dany\Documents\GIT\Lenguajes_Programacion\regex\regex\regex\obj\Debug\regex.Form1.resources
+C:\Users\Dany\Documents\GIT\Lenguajes_Programacion\regex\regex\regex\obj\Debug\regex.Properties.Resources.resources
+C:\Users\Dany\Documents\GIT\Lenguajes_Programacion\regex\regex\regex\obj\Debug\regex.csproj.GenerateResource.Cache
+C:\Users\Dany\Documents\GIT\Lenguajes_Programacion\regex\regex\regex\obj\Debug\regex.exe
+C:\Users\Dany\Documents\GIT\Lenguajes_Programacion\regex\regex\regex\obj\Debug\regex.pdb
