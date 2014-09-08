@@ -35,12 +35,17 @@ namespace Achivit
 
         public Fraction Multiplicar(Fraction frac)
         {
-            return new Fraction(frac.Denominador * Numerador, frac.Numerador * Denominador);
+            return new Fraction(frac.Numerador * Numerador, frac.Denominador * Denominador);
         }
 
         public static Fraction operator *(Fraction f1, Fraction f2)
         {
-            return new Fraction(f1.Denominador * f2.Numerador, f1.Numerador * f2.Denominador);
+            return new Fraction(f1.Numerador * f2.Numerador, f1.Denominador * f2.Denominador);
+        }
+
+        public string ToString()
+        {
+            return "" + _num + "/" + _den;
         }
     }
 }

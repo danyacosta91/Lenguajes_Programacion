@@ -1,1 +1,6 @@
 C:\Users\Dany\Documents\GIT\Lenguajes_Programacion\C#\Achivit\Achivit\bin\Debug\Achivit.exe.config
+C:\Users\Dany\Documents\GIT\Lenguajes_Programacion\C#\Achivit\Achivit\bin\Debug\Achivit.exe
+C:\Users\Dany\Documents\GIT\Lenguajes_Programacion\C#\Achivit\Achivit\bin\Debug\Achivit.pdb
+C:\Users\Dany\Documents\GIT\Lenguajes_Programacion\C#\Achivit\Achivit\obj\Debug\Achivit.csprojResolveAssemblyReference.cache
+C:\Users\Dany\Documents\GIT\Lenguajes_Programacion\C#\Achivit\Achivit\obj\Debug\Achivit.exe
+C:\Users\Dany\Documents\GIT\Lenguajes_Programacion\C#\Achivit\Achivit\obj\Debug\Achivit.pdb
