@@ -46,15 +46,10 @@ int main(){
 
 	cout << c->toString() << endl;
 
-	char *buffer  = new char[sizeof(string)];
-	string *p = new (buffer) string("SOY UN STRING");
-	string *q = new string("SOY OTRO STRING");
+	string str = new(c) Carro().toString();
 
-	cout << *p << endl;
-	cout << *q << endl;
+	cout << str << endl;
 
-	free( p );
-	free( q );
 	free( c );
 	return 0;
 }
